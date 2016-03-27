@@ -20,7 +20,7 @@ std::vector<int> v;
 
 int main(){
 	vector<int> v = { -1, 0, 5, 2, 4};
-	/*cout << "This is the unchanged vector: ";				Not really sure how to display this
+	/*cout << "This is the unchanged vector: ";			//Not really sure how to display this
 	cout << vector.at(v);*/
 
 	selection_sort(v);
